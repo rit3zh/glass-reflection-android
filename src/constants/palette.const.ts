@@ -1,0 +1,4 @@
+const PALETTE_BACKGROUND = "black";
+const PALETTE_FOREGROUND = "white";
+
+export { PALETTE_BACKGROUND, PALETTE_FOREGROUND };
