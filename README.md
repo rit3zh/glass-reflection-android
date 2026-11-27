@@ -4,7 +4,7 @@ A cloth-physics image carousel for Android with glass buttons that reflect and r
 
 ---
 
-<!-- demo video -->
+https://github.com/user-attachments/assets/7ff3f18b-0f0e-4b29-a0dc-c18849ba8c56
 
 ## ⚙️ Installation
 
