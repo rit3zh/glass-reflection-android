@@ -8,6 +8,9 @@
       ],
       "@/assets/*": [
         "./assets/*"
+      ],
+      "glass-reflection": [
+        "./modules/glass-reflection"
       ]
     }
   },
